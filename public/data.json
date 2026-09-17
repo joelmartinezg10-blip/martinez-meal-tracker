@@ -1,0 +1,1181 @@
+{
+  "family": "Martinez",
+  "title": "Martinez Meals",
+  "weekOf": "2026-09-17",
+  "through": "2026-09-26",
+  "updatedAt": "2026-09-17",
+  "notes": "10-day family plan. No tuna. Kids default to pasta, fruit, or nuggets when they skip the adult plate. Breakfast is per person (Dad / Mommy / Noa & Olive) — tap a row to expand. Update this file weekly — see README.",
+  "plan": [
+    {
+      "date": "2026-09-17",
+      "meals": [
+        {
+          "id": "2026-09-17-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-17-dinner",
+          "slot": "dinner",
+          "name": "Chicken fajitas",
+          "kidNote": "kids: pasta + fruit",
+          "recipeId": "chicken-fajitas"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "meals": [
+        {
+          "id": "2026-09-18-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-18-dinner",
+          "slot": "dinner",
+          "name": "Homemade pizza",
+          "kidNote": "kids: cheese pizza + fruit",
+          "recipeId": "homemade-pizza"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "meals": [
+        {
+          "id": "2026-09-19-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-19-dinner",
+          "slot": "dinner",
+          "name": "Carne asada bowls",
+          "kidNote": "kids: nuggets + fruit",
+          "recipeId": "carne-asada-bowls"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "meals": [
+        {
+          "id": "2026-09-20-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-20-dinner",
+          "slot": "dinner",
+          "name": "Roast chicken + potatoes",
+          "kidNote": "kids: pasta + fruit",
+          "recipeId": "roast-chicken",
+          "note": "Eat early — SD vs Inter Miami at 4pm"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "meals": [
+        {
+          "id": "2026-09-21-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-21-dinner",
+          "slot": "dinner",
+          "name": "Baked ziti",
+          "kidNote": "kids: pasta (same) + garlic bread",
+          "recipeId": "baked-ziti"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-22",
+      "meals": [
+        {
+          "id": "2026-09-22-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-22-dinner",
+          "slot": "dinner",
+          "name": "Chicken quesadillas",
+          "kidNote": "kids: cheese quesadilla + fruit",
+          "recipeId": "chicken-quesadillas"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "meals": [
+        {
+          "id": "2026-09-23-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-23-dinner",
+          "slot": "dinner",
+          "name": "Turkey taco skillet",
+          "kidNote": "kids: nuggets + apple slices",
+          "recipeId": "turkey-taco-skillet"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "meals": [
+        {
+          "id": "2026-09-24-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-24-dinner",
+          "slot": "dinner",
+          "name": "Teriyaki chicken + rice",
+          "kidNote": "kids: pasta + fruit",
+          "recipeId": "teriyaki-chicken"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "meals": [
+        {
+          "id": "2026-09-25-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-25-dinner",
+          "slot": "dinner",
+          "name": "Smash burgers",
+          "kidNote": "kids: nuggets + fruit",
+          "recipeId": "smash-burgers"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "meals": [
+        {
+          "id": "2026-09-26-breakfast",
+          "slot": "breakfast",
+          "name": "Breakfast",
+          "kidNote": "Noa & Olive: fruit + toast; Olive soft pieces",
+          "people": [
+            {
+              "id": "dad",
+              "who": "Dad",
+              "name": "Egg plate",
+              "detail": "1 whole egg + 2 egg whites with peppers + 1 serving cottage cheese"
+            },
+            {
+              "id": "mommy",
+              "who": "Mommy",
+              "name": "Mommy's eggs",
+              "detail": "Placeholder until Casie's exact plate is known"
+            },
+            {
+              "id": "noa-olive",
+              "who": "Noa & Olive",
+              "name": "Egg scramble",
+              "detail": "1 scrambled egg each with a little cheese, fruit, and toast. Olive: soft pieces."
+            }
+          ]
+        },
+        {
+          "id": "2026-09-26-dinner",
+          "slot": "dinner",
+          "name": "Cottage cheese pancakes",
+          "kidNote": "kids: pancakes + berries",
+          "recipeId": "cottage-cheese-pancakes"
+        }
+      ]
+    }
+  ],
+  "shopping": [
+    {
+      "aisle": "Produce",
+      "items": [
+        {
+          "id": "bell-peppers",
+          "name": "Bell peppers",
+          "qty": "5",
+          "note": "fajitas + Dad egg plate"
+        },
+        {
+          "id": "yellow-onion",
+          "name": "Yellow onions",
+          "qty": "3"
+        },
+        {
+          "id": "red-onion",
+          "name": "Red onion",
+          "qty": "2",
+          "note": "nice to have extra — salads"
+        },
+        {
+          "id": "garlic",
+          "name": "Garlic",
+          "qty": "1 head"
+        },
+        {
+          "id": "limes",
+          "name": "Limes",
+          "qty": "6"
+        },
+        {
+          "id": "cilantro",
+          "name": "Cilantro",
+          "qty": "1 bunch"
+        },
+        {
+          "id": "avocado",
+          "name": "Avocados",
+          "qty": "4"
+        },
+        {
+          "id": "romaine",
+          "name": "Romaine",
+          "qty": "1 head",
+          "note": "bowls"
+        },
+        {
+          "id": "tomatoes",
+          "name": "Roma tomatoes",
+          "qty": "5"
+        },
+        {
+          "id": "jalapeno",
+          "name": "Jalapeño",
+          "qty": "2"
+        },
+        {
+          "id": "broccoli",
+          "name": "Broccoli",
+          "qty": "1 bag",
+          "note": "teriyaki side"
+        },
+        {
+          "id": "russet-potatoes",
+          "name": "Russet potatoes",
+          "qty": "3 lb"
+        },
+        {
+          "id": "apples",
+          "name": "Apples",
+          "qty": "8",
+          "note": "kids snacks + lunches"
+        },
+        {
+          "id": "bananas",
+          "name": "Bananas",
+          "qty": "1 bunch"
+        },
+        {
+          "id": "berries",
+          "name": "Strawberries + blueberries",
+          "qty": "2 clamshells",
+          "note": "kids fruit"
+        },
+        {
+          "id": "grapes",
+          "name": "Grapes",
+          "qty": "1 bag"
+        },
+        {
+          "id": "lemon",
+          "name": "Lemons",
+          "qty": "4",
+          "note": "nice to have"
+        },
+        {
+          "id": "green-onion",
+          "name": "Green onions",
+          "qty": "1 bunch"
+        },
+        {
+          "id": "spinach",
+          "name": "Baby spinach",
+          "qty": "1 tub",
+          "note": "nice to have — egg bake + salads"
+        },
+        {
+          "id": "cucumber",
+          "name": "Cucumbers",
+          "qty": "3",
+          "note": "taco + Mediterranean salads"
+        },
+        {
+          "id": "cherry-tomatoes",
+          "name": "Cherry tomatoes",
+          "qty": "2 pints",
+          "note": "Caprese + chopped salad"
+        },
+        {
+          "id": "basil",
+          "name": "Fresh basil",
+          "qty": "1 pack",
+          "note": "Caprese"
+        }
+      ]
+    },
+    {
+      "aisle": "Meat",
+      "items": [
+        {
+          "id": "chicken-thighs",
+          "name": "Chicken thighs",
+          "qty": "3 lb",
+          "note": "fajitas + teriyaki"
+        },
+        {
+          "id": "whole-chicken",
+          "name": "Whole chicken",
+          "qty": "1",
+          "note": "Sunday roast"
+        },
+        {
+          "id": "flank-steak",
+          "name": "Flank or skirt steak",
+          "qty": "2 lb",
+          "note": "carne asada"
+        },
+        {
+          "id": "ground-turkey",
+          "name": "Ground turkey",
+          "qty": "1.5 lb"
+        },
+        {
+          "id": "ground-beef",
+          "name": "Ground beef 80/20",
+          "qty": "1.5 lb",
+          "note": "smash burgers"
+        },
+        {
+          "id": "bacon",
+          "name": "Bacon",
+          "qty": "1 pack",
+          "note": "pancake night"
+        },
+        {
+          "id": "rotisserie-optional",
+          "name": "Rotisserie chicken (backup)",
+          "qty": "1",
+          "note": "quesadillas if short on time"
+        }
+      ]
+    },
+    {
+      "aisle": "Dairy & eggs",
+      "items": [
+        {
+          "id": "shredded-cheese",
+          "name": "Shredded Mexican blend",
+          "qty": "2 bags"
+        },
+        {
+          "id": "mozzarella",
+          "name": "Mozzarella",
+          "qty": "1 lb",
+          "note": "pizza + ziti"
+        },
+        {
+          "id": "parmesan",
+          "name": "Parmesan",
+          "qty": "1 wedge"
+        },
+        {
+          "id": "ricotta",
+          "name": "Ricotta",
+          "qty": "15 oz"
+        },
+        {
+          "id": "sour-cream",
+          "name": "Sour cream",
+          "qty": "1 tub"
+        },
+        {
+          "id": "eggs",
+          "name": "Eggs",
+          "qty": "2 × 24 ct",
+          "note": "breakfast plates + bake"
+        },
+        {
+          "id": "butter",
+          "name": "Butter",
+          "qty": "1 lb"
+        },
+        {
+          "id": "milk",
+          "name": "Milk",
+          "qty": "1 gal"
+        },
+        {
+          "id": "yogurt",
+          "name": "Plain or vanilla yogurt",
+          "qty": "32 oz",
+          "note": "kids breakfast"
+        },
+        {
+          "id": "cheddar-slices",
+          "name": "Cheddar slices",
+          "qty": "1 pack",
+          "note": "burgers"
+        },
+        {
+          "id": "cottage-cheese",
+          "name": "Cottage cheese",
+          "qty": "2 large tubs",
+          "note": "Dad breakfast + egg bake + pancakes"
+        },
+        {
+          "id": "feta",
+          "name": "Feta",
+          "qty": "1 tub",
+          "note": "Mediterranean salad"
+        },
+        {
+          "id": "mozz-pearls",
+          "name": "Mozzarella pearls",
+          "qty": "1 tub",
+          "note": "Caprese"
+        }
+      ]
+    },
+    {
+      "aisle": "Bakery & tortillas",
+      "items": [
+        {
+          "id": "flour-tortillas",
+          "name": "Flour tortillas",
+          "qty": "2 packs"
+        },
+        {
+          "id": "pizza-dough",
+          "name": "Pizza dough",
+          "qty": "2 balls"
+        },
+        {
+          "id": "burger-buns",
+          "name": "Burger buns",
+          "qty": "1 pack"
+        },
+        {
+          "id": "french-bread",
+          "name": "French bread",
+          "qty": "1 loaf",
+          "note": "garlic bread"
+        },
+        {
+          "id": "sandwich-bread",
+          "name": "Sandwich bread",
+          "qty": "1 loaf",
+          "note": "Noa & Olive toast"
+        }
+      ]
+    },
+    {
+      "aisle": "Pantry",
+      "items": [
+        {
+          "id": "kids-pasta",
+          "name": "Kid pasta (shapes)",
+          "qty": "3 boxes",
+          "note": "weeknight kid plate"
+        },
+        {
+          "id": "ziti",
+          "name": "Ziti or penne",
+          "qty": "1 lb"
+        },
+        {
+          "id": "marinara",
+          "name": "Marinara",
+          "qty": "2 jars"
+        },
+        {
+          "id": "rice",
+          "name": "Jasmine rice",
+          "qty": "1 bag"
+        },
+        {
+          "id": "black-beans",
+          "name": "Black beans",
+          "qty": "2 cans"
+        },
+        {
+          "id": "salsa",
+          "name": "Salsa",
+          "qty": "1 jar"
+        },
+        {
+          "id": "taco-seasoning",
+          "name": "Taco seasoning",
+          "qty": "1 jar"
+        },
+        {
+          "id": "fajita-seasoning",
+          "name": "Chili powder + cumin + paprika",
+          "qty": "check pantry"
+        },
+        {
+          "id": "soy-sauce",
+          "name": "Soy sauce",
+          "qty": "1 bottle"
+        },
+        {
+          "id": "honey",
+          "name": "Honey",
+          "qty": "1 bottle"
+        },
+        {
+          "id": "olive-oil",
+          "name": "Olive oil",
+          "qty": "if out",
+          "note": "nice to have if out"
+        },
+        {
+          "id": "tortilla-chips",
+          "name": "Tortilla chips",
+          "qty": "1 bag"
+        },
+        {
+          "id": "pancake-mix",
+          "name": "Pancake mix",
+          "qty": "1 box"
+        },
+        {
+          "id": "maple-syrup",
+          "name": "Maple syrup",
+          "qty": "1 bottle"
+        },
+        {
+          "id": "burger-pickles",
+          "name": "Pickles",
+          "qty": "1 jar"
+        },
+        {
+          "id": "ketchup",
+          "name": "Ketchup",
+          "qty": "if low"
+        },
+        {
+          "id": "rolled-oats",
+          "name": "Rolled oats",
+          "qty": "1 tub",
+          "note": "nice to have — cottage cheese pancakes"
+        },
+        {
+          "id": "chickpeas",
+          "name": "Chickpeas",
+          "qty": "2 cans",
+          "note": "Mediterranean salad"
+        },
+        {
+          "id": "kalamata",
+          "name": "Kalamata olives",
+          "qty": "1 jar",
+          "note": "Mediterranean salad"
+        },
+        {
+          "id": "balsamic",
+          "name": "Balsamic glaze",
+          "qty": "1 bottle",
+          "note": "Caprese"
+        },
+        {
+          "id": "short-pasta",
+          "name": "Short pasta (rotini)",
+          "qty": "1 lb",
+          "note": "Caprese pasta salad"
+        }
+      ]
+    },
+    {
+      "aisle": "Frozen / kids",
+      "items": [
+        {
+          "id": "nuggets",
+          "name": "Chicken nuggets",
+          "qty": "2 bags",
+          "note": "kid fallback"
+        },
+        {
+          "id": "frozen-broccoli",
+          "name": "Frozen broccoli",
+          "qty": "1 bag",
+          "note": "backup veg"
+        },
+        {
+          "id": "frozen-berries",
+          "name": "Frozen berries",
+          "qty": "1 bag",
+          "note": "yogurt + pancakes"
+        },
+        {
+          "id": "pizza-sauce",
+          "name": "Pizza sauce",
+          "qty": "1 jar"
+        }
+      ]
+    }
+  ],
+  "recipes": [
+    {
+      "id": "chicken-fajitas",
+      "name": "Chicken fajitas",
+      "time": "35 min",
+      "serves": "4 + kids plate",
+      "kidNote": "kids: buttered pasta + fruit",
+      "tags": [
+        "weeknight",
+        "skillet"
+      ],
+      "ingredients": [
+        "1.5 lb chicken thighs, sliced",
+        "3 bell peppers, sliced",
+        "1 yellow onion, sliced",
+        "2 tbsp olive oil",
+        "1 tsp chili powder, 1 tsp cumin, 1 tsp paprika, salt",
+        "Juice of 2 limes",
+        "Flour tortillas, salsa, sour cream, cilantro"
+      ],
+      "steps": [
+        "Toss chicken with oil, spices, salt, and half the lime.",
+        "Sear chicken in a hot skillet until browned and cooked through. Set aside.",
+        "Cook peppers and onion in the same pan until charred-tender.",
+        "Return chicken, splash remaining lime, and pile into warm tortillas.",
+        "Kids plate: pasta with butter, fruit on the side. Skip the peppers if they push back."
+      ]
+    },
+    {
+      "id": "homemade-pizza",
+      "name": "Homemade pizza",
+      "time": "30 min",
+      "serves": "4",
+      "kidNote": "kids: plain cheese + fruit",
+      "tags": [
+        "friday",
+        "family"
+      ],
+      "ingredients": [
+        "2 balls pizza dough",
+        "1 cup pizza sauce",
+        "12 oz mozzarella, shredded",
+        "Toppings: pepperoni or leftover chicken, peppers, red onion",
+        "Olive oil, salt"
+      ],
+      "steps": [
+        "Heat oven to 475°F with a sheet pan inside.",
+        "Stretch dough, oil the hot pan, and lay dough on it.",
+        "Sauce, cheese, toppings. Keep one pizza cheese-only for the kids.",
+        "Bake 12–15 minutes until the edges blister.",
+        "Fruit bowl on the table so kids can graze while it cools."
+      ]
+    },
+    {
+      "id": "carne-asada-bowls",
+      "name": "Carne asada bowls",
+      "time": "40 min",
+      "serves": "4",
+      "kidNote": "kids: nuggets + fruit",
+      "tags": [
+        "weekend",
+        "grill"
+      ],
+      "ingredients": [
+        "2 lb flank or skirt steak",
+        "Juice of 3 limes, 3 garlic cloves, 1 tsp cumin, salt, pepper",
+        "2 cups cooked rice",
+        "1 can black beans, warmed",
+        "Romaine, tomato, avocado, cilantro, salsa"
+      ],
+      "steps": [
+        "Marinate steak 20+ minutes in lime, garlic, cumin, salt, and a little oil.",
+        "Grill or broil on high, 3–5 minutes per side. Rest 5 minutes, slice thin.",
+        "Build bowls: rice, beans, steak, salsa, avocado, cilantro.",
+        "Kids plate: nuggets in the oven while the steak rests, fruit on the side."
+      ]
+    },
+    {
+      "id": "roast-chicken",
+      "name": "Roast chicken + potatoes",
+      "time": "1 hr 15 min",
+      "serves": "4 + leftovers",
+      "kidNote": "kids: pasta + fruit",
+      "tags": [
+        "sunday",
+        "roast"
+      ],
+      "ingredients": [
+        "1 whole chicken",
+        "2 lb russet potatoes, chunked",
+        "Olive oil, salt, pepper, paprika, garlic",
+        "1 lemon, halved",
+        "Green onions to finish"
+      ],
+      "steps": [
+        "Heat oven to 425°F. Pat chicken dry. Season all over. Stuff with lemon.",
+        "Toss potatoes with oil and salt on the same sheet around the chicken.",
+        "Roast 60–70 minutes until juices run clear (165°F in the thigh).",
+        "Rest 10 minutes. Eat early so you can make the 4pm game.",
+        "Kids plate: pasta with butter and parmesan, fruit cup. Save extra chicken for quesadillas."
+      ]
+    },
+    {
+      "id": "baked-ziti",
+      "name": "Baked ziti",
+      "time": "45 min",
+      "serves": "6",
+      "kidNote": "kids eat this — pasta night",
+      "tags": [
+        "pasta",
+        "bake"
+      ],
+      "ingredients": [
+        "1 lb ziti or penne",
+        "1 jar marinara plus a splash of water",
+        "15 oz ricotta",
+        "2 cups mozzarella, 1/2 cup parmesan",
+        "1 egg, salt, pepper, garlic",
+        "French bread + butter for garlic bread"
+      ],
+      "steps": [
+        "Boil pasta 2 minutes under. Drain.",
+        "Stir ricotta with egg, garlic, salt, half the parmesan.",
+        "Fold pasta with marinara and ricotta. Layer in a baking dish with mozzarella.",
+        "Bake 20–25 minutes at 375°F until bubbly. Broil 1 minute if you want browned spots.",
+        "Garlic bread in the oven for the last 8 minutes. Kids usually eat this as-is."
+      ]
+    },
+    {
+      "id": "chicken-quesadillas",
+      "name": "Chicken quesadillas",
+      "time": "25 min",
+      "serves": "4",
+      "kidNote": "kids: cheese quesadilla + fruit",
+      "tags": [
+        "weeknight",
+        "leftovers"
+      ],
+      "ingredients": [
+        "3 cups shredded leftover roast chicken (or rotisserie)",
+        "8 flour tortillas",
+        "2 cups shredded Mexican blend",
+        "Salsa, sour cream, lime",
+        "Optional: leftover peppers"
+      ],
+      "steps": [
+        "Warm chicken with a pinch of taco seasoning and a splash of salsa.",
+        "Cheese + chicken in tortillas. Press in a dry skillet until both sides are golden.",
+        "Make at least two cheese-only quesadillas for the kids.",
+        "Cut into triangles. Fruit and a little sour cream on the side."
+      ]
+    },
+    {
+      "id": "turkey-taco-skillet",
+      "name": "Turkey taco skillet",
+      "time": "30 min",
+      "serves": "4",
+      "kidNote": "kids: nuggets + apple slices",
+      "tags": [
+        "weeknight",
+        "one-pan"
+      ],
+      "ingredients": [
+        "1.5 lb ground turkey",
+        "1 onion, diced",
+        "1 bell pepper, diced",
+        "1 tbsp taco seasoning",
+        "1 can black beans, drained",
+        "1 cup salsa",
+        "Tortilla chips, cheese, cilantro, lime"
+      ],
+      "steps": [
+        "Brown turkey with onion and pepper. Drain if needed.",
+        "Stir in seasoning, beans, and salsa. Simmer 8 minutes.",
+        "Top with cheese to melt. Scoop over chips or rice.",
+        "Kids plate: nuggets + apple slices. Offer a tiny scoop of turkey if they’re curious."
+      ]
+    },
+    {
+      "id": "teriyaki-chicken",
+      "name": "Teriyaki chicken + rice",
+      "time": "35 min",
+      "serves": "4",
+      "kidNote": "kids: pasta + fruit",
+      "tags": [
+        "weeknight",
+        "rice"
+      ],
+      "ingredients": [
+        "1.5 lb chicken thighs",
+        "1/3 cup soy sauce, 2 tbsp honey, 1 tbsp minced garlic, splash of water",
+        "2 cups jasmine rice, cooked",
+        "Broccoli florets",
+        "Green onions, sesame seeds if you have them"
+      ],
+      "steps": [
+        "Start the rice. Steam or microwave broccoli.",
+        "Sear chicken thighs until browned and cooked through. Slice.",
+        "Pour soy, honey, garlic, and a splash of water into the pan. Bubble until glossy. Toss chicken.",
+        "Serve over rice with broccoli and green onions.",
+        "Kids plate: pasta + fruit. A little teriyaki chicken on the side if they want it."
+      ]
+    },
+    {
+      "id": "smash-burgers",
+      "name": "Smash burgers",
+      "time": "25 min",
+      "serves": "4",
+      "kidNote": "kids: nuggets + fruit",
+      "tags": [
+        "friday",
+        "skillet"
+      ],
+      "ingredients": [
+        "1.5 lb ground beef, loosely packed into 8 balls",
+        "Burger buns",
+        "Cheddar slices",
+        "Pickles, ketchup, onion",
+        "Salt, pepper, butter for the buns"
+      ],
+      "steps": [
+        "Heat a cast-iron or griddle until very hot. Toast buns in butter.",
+        "Smash each beef ball hard on the skillet. Salt and pepper. Flip after a deep crust forms.",
+        "Cheese on the second side for 30 seconds. Stack two patties if you want doubles.",
+        "Pickles and ketchup. Keep toppings on the side for picky eaters.",
+        "Kids plate: nuggets + fruit. Offer a plain slider if they ask."
+      ]
+    },
+    {
+      "id": "cottage-cheese-egg-bake",
+      "name": "Cottage Cheese Egg Bake",
+      "time": "45 min",
+      "serves": "6 (make-ahead breakfast)",
+      "kidNote": "kids: scramble + fruit if they skip the bake",
+      "tags": [
+        "breakfast",
+        "costco",
+        "make-ahead"
+      ],
+      "ingredients": [
+        "16 oz cottage cheese (Costco tub)",
+        "10 eggs",
+        "2 cups baby spinach",
+        "1 bell pepper, diced",
+        "1 cup shredded cheese",
+        "Salt, pepper, olive oil for the dish"
+      ],
+      "steps": [
+        "Heat oven to 350°F. Oil a 9×13 or similar baking dish.",
+        "Whisk eggs with cottage cheese, salt, and pepper until mostly smooth.",
+        "Stir in spinach, peppers, and half the shredded cheese.",
+        "Pour into the dish, top with remaining cheese, bake 30–40 minutes until set.",
+        "Dad can eat a square with his usual peppers + extra cottage cheese. Kids: fruit on the side; scramble is still their weekday plate."
+      ]
+    },
+    {
+      "id": "cottage-cheese-pancakes",
+      "name": "Cottage Cheese Pancakes + berries",
+      "time": "25 min",
+      "serves": "4",
+      "kidNote": "kids: pancakes + berries",
+      "tags": [
+        "breakfast-for-dinner",
+        "costco",
+        "pinterest"
+      ],
+      "ingredients": [
+        "1 cup cottage cheese",
+        "2 eggs",
+        "1/2 cup rolled oats",
+        "1 tsp vanilla, pinch of salt",
+        "Butter for the pan",
+        "Berries (fresh or Costco frozen, warmed)",
+        "Maple syrup"
+      ],
+      "steps": [
+        "Blend cottage cheese, eggs, oats, vanilla, and salt until mostly smooth (little oat bits are fine).",
+        "Cook small pancakes on a buttered griddle over medium heat, 2–3 minutes per side.",
+        "Warm berries with a spoon of maple for a quick sauce.",
+        "Kids eat pancakes and berries. Same batter works for weekend breakfast."
+      ]
+    },
+    {
+      "id": "chicken-caprese-pasta-salad",
+      "name": "Chicken Caprese Pasta Salad",
+      "time": "30 min",
+      "serves": "4 + leftovers",
+      "kidNote": "kids: plain pasta + fruit",
+      "tags": [
+        "lunch",
+        "costco",
+        "pinterest"
+      ],
+      "ingredients": [
+        "1 lb short pasta (rotini)",
+        "3 cups shredded Costco rotisserie chicken",
+        "1 pint cherry tomatoes, halved",
+        "8 oz mozzarella pearls",
+        "Fresh basil",
+        "Olive oil, balsamic glaze, salt, pepper"
+      ],
+      "steps": [
+        "Boil pasta, drain, and toss with a little olive oil so it does not stick.",
+        "Fold in chicken, tomatoes, mozzarella, and torn basil.",
+        "Dress with olive oil, balsamic, salt, and pepper. Chill or serve room temp.",
+        "Kids plate: plain pasta from the same pot + fruit. Skip the balsamic if they fuss."
+      ]
+    },
+    {
+      "id": "taco-salad",
+      "name": "Taco Salad",
+      "time": "25 min",
+      "serves": "4",
+      "kidNote": "kids: nuggets + fruit",
+      "tags": [
+        "weeknight",
+        "costco",
+        "pinterest"
+      ],
+      "ingredients": [
+        "Leftover taco turkey or 3 cups rotisserie chicken",
+        "1 head romaine, chopped",
+        "Cherry tomatoes, red onion, avocado",
+        "Shredded Mexican blend, salsa, sour cream",
+        "Tortilla chips",
+        "Lime"
+      ],
+      "steps": [
+        "Warm the meat. Chop the salad veg.",
+        "Build bowls: lettuce, meat, tomato, onion, cheese, salsa, crushed chips.",
+        "Finish with avocado, sour cream, and lime.",
+        "Kids plate: nuggets + fruit. Offer a tiny chip-and-cheese pile if they want in."
+      ]
+    },
+    {
+      "id": "mediterranean-chopped-salad",
+      "name": "Mediterranean Chopped Salad",
+      "time": "20 min",
+      "serves": "4",
+      "kidNote": "kids: fruit + pasta or cucumber coins",
+      "tags": [
+        "lunch",
+        "costco",
+        "pinterest"
+      ],
+      "ingredients": [
+        "2 cucumbers, chopped",
+        "1 pint cherry tomatoes",
+        "1/2 red onion, thin slice",
+        "1 can chickpeas, drained",
+        "Feta, handful of kalamata olives",
+        "Baby spinach or romaine",
+        "Lemon, olive oil, salt, pepper"
+      ],
+      "steps": [
+        "Chop everything small so it eats like a Costco chopped salad.",
+        "Toss with lemon, olive oil, salt, and pepper. Fold in feta and olives last.",
+        "Serve as lunch or next to grilled chicken.",
+        "Kids: cucumber coins + fruit. Skip olives. Pasta leftover is still their fallback."
+      ]
+    }
+  ]
+}
