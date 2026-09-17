@@ -209,6 +209,7 @@ button {
   width: 100%;
   min-height: 44px;
   padding: 2px 4px 2px 0;
+  appearance: none;
 }
 
 .person-copy {
@@ -262,7 +263,8 @@ button {
 .recipe-card,
 .nav-btn,
 .back,
-.text-btn {
+.text-btn,
+.person-toggle {
   background: none;
   border: 0;
   cursor: pointer;
