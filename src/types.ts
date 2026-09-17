@@ -1,5 +1,13 @@
 export type MealSlot = 'breakfast' | 'lunch' | 'dinner'
 
+export interface PersonPlate {
+  id: string
+  who: string
+  name: string
+  detail: string
+  recipeId?: string
+}
+
 export interface Meal {
   id: string
   slot: MealSlot
@@ -7,6 +15,7 @@ export interface Meal {
   kidNote: string
   recipeId?: string
   note?: string
+  people?: PersonPlate[]
 }
 
 export interface DayPlan {

@@ -171,8 +171,89 @@ button {
   border-left-color: var(--gold);
 }
 
-.event[data-slot='lunch'] {
-  border-left-color: var(--sage);
+.event.split {
+  grid-template-columns: 1fr;
+}
+
+.split-body {
+  padding: 12px 12px 8px;
+}
+
+.people {
+  display: flex;
+  flex-direction: column;
+  margin-top: 6px;
+}
+
+.person {
+  border-top: 1px solid var(--line);
+  padding: 8px 0 6px;
+}
+
+.person-line {
+  display: grid;
+  grid-template-columns: 40px 1fr;
+  align-items: start;
+}
+
+.person-check {
+  min-height: 44px;
+  padding: 0;
+}
+
+.person-toggle {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  min-height: 44px;
+  padding: 2px 4px 2px 0;
+}
+
+.person-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.person-who {
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.person-name {
+  font-family: Fraunces, Georgia, serif;
+  font-size: 1.22rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+
+.person-chevron {
+  color: var(--muted);
+  font-size: 0.9rem;
+  padding-top: 12px;
+}
+
+.person-detail {
+  margin: 0 8px 4px 40px;
+}
+
+.person-detail p {
+  margin: 0;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.person.done .person-name {
+  text-decoration: line-through;
+  color: #8a7464;
 }
 
 .check,
